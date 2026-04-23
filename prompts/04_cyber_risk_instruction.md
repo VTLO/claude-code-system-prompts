@@ -1,10 +1,7 @@
 # Cyber Risk Instruction
 
-> **Source**: `src/constants/cyberRiskInstruction.ts`
->
-> **OWNED BY**: Safeguards team (David Forsythe, Kyla Guru)
->
-> This instruction defines the boundary between acceptable defensive security assistance and potentially harmful activities. Changes require Safeguards team review.
+
+This instruction defines the boundary between acceptable defensive security assistance and potentially harmful activities. Changes require Safeguards team review.
 
 ---
 
