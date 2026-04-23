@@ -16,14 +16,14 @@ IMPORTANT: Assist with authorized security testing, defensive security, CTF chal
 
 ## What This Controls
 
-| Category | Allowed | Blocked |
-|----------|---------|---------|
+| Category | Allowed |
+|----------|---------|
 | Penetration testing | ✅ With authorization context | ✅ Without clear engagement |
-| CTF challenges | ✅ Always | - |
-| Defensive security | ✅ Always | - |
-| Educational security | ✅ Always | - |
-| DoS attacks | - | ✅ Always |
-| Mass targeting | - | ✅ Always |
-| Supply chain compromise | - | ✅ Always |
-| Detection evasion | - | ✅ For malicious purposes |
+| CTF challenges | ✅ Always |
+| Defensive security | ✅ Always |
+| Educational security | ✅ Always |
+| DoS attacks  | ✅ Always |
+| Mass targeting | ✅ Always |
+| Supply chain compromise  | ✅ Always |
+| Detection evasion | ✅ For malicious purposes |
 | Dual-use tools (C2, cred testing) | ✅ With authorization | ✅ Without context |
